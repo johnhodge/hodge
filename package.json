@@ -1,0 +1,21 @@
+{
+    "name": "hodge-theme-light",
+    "displayName": "Hodge Theme Light",
+    "description": "A light theme of Hodge.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hodge Theme Light",
+                "uiTheme": "vs",
+                "path": "./themes/Hodge Theme Light-color-theme.json"
+            }
+        ]
+    }
+}
