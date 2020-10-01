@@ -8,12 +8,13 @@
     "name": "johnhodge"
   },
   "categories": [
-    "Other"
+    "Themes"
   ],
   "galleryBanner": {
-    "color": "#C80000",
+    "color": "#f3f3f3",
     "theme": "light"
   },
+  "icon": "hodge.png",
   "activationEvents": [
     "onLanguage:markdown"
   ],
