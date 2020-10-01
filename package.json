@@ -1,21 +1,42 @@
 {
   "name": "hodge-theme-light",
   "displayName": "Hodge Theme Light",
+  "version": "0.1.0",
+  "publisher": "johnhodge",
   "description": "A light theme of Hodge.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.48.0"
+  "author": {
+    "name": "johnhodge"
   },
   "categories": [
-    "Themes"
+    "Other"
   ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Hodge Theme Light",
-        "uiTheme": "vs",
-        "path": "./themes/hodge-theme-light.json"
-      }
-    ]
-  }
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "light"
+  },
+  "activationEvents": [
+    "onLanguage:markdown"
+  ],
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "main": "./out/extension",
+  "scripts": {
+    "vscode:prepublish": "node ./node_modules/vscode/bin/compile",
+    "compile": "node ./node_modules/vscode/bin/compile -watch -p ./"
+  },
+  "devDependencies": {
+    "vscode": "0.10.x",
+    "typescript": "^1.6.2"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/johnhodge/hodge-light-theme/issues",
+    "email": "light@hod.ge"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnhodge/hodge-light-theme.git"
+  },
+  "homepage": "https://github.com/johnhodge/hodge-light-theme/blob/master/README.md"
 }

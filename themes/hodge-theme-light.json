@@ -9,13 +9,10 @@
     If no alpha value is defined, it defaults to ff (opaque, no transparency). If alpha is set to 00, the color is fully transparent.
 
     Some colors should not be opaque in order to not cover other annotations. Check the color descriptions to see to which colors this applies.*/
-
     // Contrast colors: https://code.visualstudio.com/api/references/theme-color#contrast-colors
-
     // The contrast colors are typically only set for high contrast themes. If set, they add an additional border around items across the UI to increase the contrast.
     //"contrastActiveBorder": null,
     //"contrastBorder": null,
-
     // Base colors: https://code.visualstudio.com/api/references/theme-color#base-colors
     "focusBorder": "#0090f1",
     "foreground": "#616161",
@@ -24,15 +21,11 @@
     "descriptionForeground": "#717171",
     "errorForeground": "#a1260d",
     "icon.foreground": "#424242",
-
     // Window border: https://code.visualstudio.com/api/references/theme-color#window-border
-
     // The theme colors for VS Code window border.
     "window.activeBorder": "#f3f3f3",
     "window.inactiveBorder": "#f3f3f3",
-
     // Text colors: https://code.visualstudio.com/api/references/theme-color#text-colors
-
     // Colors inside a text document, such as the welcome page.
     "textBlockQuote.background": "#7f7f7f1a",
     "textBlockQuote.border": "#007acc80",
@@ -41,9 +34,7 @@
     "textLink.foreground": "#006ab1",
     "textPreformat.foreground": "#a31515",
     "textSeparator.foreground": "#1b1b1b2e",
-
     // Button control: https://code.visualstudio.com/api/references/theme-color#button-control
-
     // A set of colors for button widgets such as Open Folder button in the Explorer of a new window.
     "button.background": "#007acc",
     "button.foreground": "#ffffff",
@@ -54,17 +45,13 @@
     "checkbox.background": "#ffffff",
     //"checkbox.foreground": null,
     "checkbox.border": "#cecece",
-
     // Dropdown control: https://code.visualstudio.com/api/references/theme-color#dropdown-control
-
     // A set of colors for all Dropdown widgets such as in the Integrated Terminal or the Output panel. Note that the Dropdown control is not used on macOS currently.
     "dropdown.background": "#ffffff",
     //"dropdown.listBackground": null,
     "dropdown.border": "#cecece",
     //"dropdown.foreground": null,
-
     // Input control: https://code.visualstudio.com/api/references/theme-color#input-control
-
     // Colors for input controls such as in the Search view or the Find/Replace dialog.
     "input.background": "#ffffff",
     //"input.border": null,
@@ -82,24 +69,18 @@
     "inputValidation.warningBackground": "#f6f5d2",
     //"inputValidation.warningForeground": null,
     "inputValidation.warningBorder": "#b89500",
-
     // Scrollbar control: https://code.visualstudio.com/api/references/theme-color#scrollbar-control
     "scrollbar.shadow": "#dddddd",
     "scrollbarSlider.activeBackground": "#1b1b1b99",
     "scrollbarSlider.background": "#64646466",
     "scrollbarSlider.hoverBackground": "#646464b3",
-
     // Badge: https://code.visualstudio.com/api/references/theme-color#badge
-
     // Badges are small information labels, for example, search results count.
     "badge.foreground": "#333333",
     "badge.background": "#c4c4c4",
-
     // Progress bar: https://code.visualstudio.com/api/references/theme-color#progress-bar
     "progressBar.background": "#0e70c0",
-
     // Lists and trees: https://code.visualstudio.com/api/references/theme-color#lists-and-trees
-
     // Colors for list and trees like the File Explorer. An active list/tree has keyboard focus, an inactive does not.
     "list.activeSelectionBackground": "#0074e8",
     "list.activeSelectionForeground": "#ffffff",
@@ -122,9 +103,7 @@
     //"list.filterMatchBorder": null,
     "tree.indentGuidesStroke": "#a9a9a9",
     "list.deemphasizedForeground": "#8e8e90",
-
     // Activity Bar: https://code.visualstudio.com/api/references/theme-color#activity-bar
-
     // The Activity Bar is displayed either on the far left or right of the workbench and allows fast switching between views of the Side Bar.
     "activityBar.background": "#2c2c2c",
     //"activityBar.dropBackground": null,
@@ -137,9 +116,7 @@
     "activityBar.activeBorder": "#61616130",
     //"activityBar.activeBackground": null,
     "activityBar.activeFocusBorder": "#61616130",
-
     // Side Bar: https://code.visualstudio.com/api/references/theme-color#side-bar
-
     // The Side Bar contains views like the Explorer and Search.
     "sideBar.background": "#f3f3f3",
     //"sideBar.foreground": null,
@@ -149,9 +126,7 @@
     "sideBarSectionHeader.background": "#61616120",
     //"sideBarSectionHeader.foreground": null,
     "sideBarSectionHeader.border": "#61616130",
-
     // Minimap: https://code.visualstudio.com/api/references/theme-color#minimap
-
     // The Minimap shows a minified version of the current file.
     "minimap.findMatchHighlight": "#d18616",
     "minimap.selectionHighlight": "#add6ff",
@@ -164,9 +139,7 @@
     "minimapGutter.addedBackground": "#81b88b",
     "minimapGutter.modifiedBackground": "#66afe0",
     "minimapGutter.deletedBackground": "#ca4b51",
-
     // Editor Groups Tabs: https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
-
     // Editor Groups are the containers of editors. There can be many editor groups. A Tab is the container of an editor. Multiple Tabs can be opened in one editor group.
     "editorGroup.border": "#e7e7e7",
     "editorGroup.dropBackground": "#2677cb2e",
@@ -200,11 +173,8 @@
     "tab.unfocusedActiveModifiedBorder": "#33aaeeb3",
     "tab.unfocusedInactiveModifiedBorder": "#33aaee40",
     "editorPane.background": "#ffffff",
-
     // Editor colors: https://code.visualstudio.com/api/references/theme-color#editor-colors
-
     // The most prominent editor colors are the token colors used for syntax highlighting and are based on the language grammar installed. These colors are defined by the Color Theme but can also be customized with the editor.tokenColorCustomizations setting. See Customizing a Color Theme for details on updating a Color Theme and the available token types.
-
     // All other editor colors are listed here
     "editor.background": "#ffffff",
     "editor.foreground": "#1b1b1b",
@@ -212,20 +182,17 @@
     "editorLineNumber.activeForeground": "#0b216f",
     //"editorCursor.background": null,
     "editorCursor.foreground": "#1b1b1b",
-
     // Selection colors are visible when selecting one or more characters. In addition to the selection also all regions with the same content are highlighted.
     "editor.selectionBackground": "#add6ff",
     //"editor.selectionForeground": null,
     "editor.inactiveSelectionBackground": "#e5ebf1",
     "editor.selectionHighlightBackground": "#add6ff80",
     //"editor.selectionHighlightBorder": null,
-
     // Word highlight colors are visible when the cursor is inside a symbol or a word. Depending on the language support available for the file type, all matching references and declarations are highlighted and read and write accesses get different colors. If document symbol language support is not available, this falls back to word highlighting.
     "editor.wordHighlightBackground": "#57575740",
     //"editor.wordHighlightBorder": null,
     "editor.wordHighlightStrongBackground": "#0e639c40",
     //"editor.wordHighlightStrongBorder": null,
-
     // Find colors depend on the current find string in the Find/Replace dialog.
     "editor.findMatchBackground": "#a8ac94",
     "editor.findMatchHighlightBackground": "#ea5c0055",
@@ -233,56 +200,41 @@
     //"editor.findMatchBorder": null,
     //"editor.findMatchHighlightBorder": null,
     //"editor.findRangeHighlightBorder": null,
-
     // Search Editor colors highlight results in a Search Editor. This can be configured separately from other find matches in order to better differentiate between different classes of match in the same editor.
     "searchEditor.findMatchBackground": "#ea5c0038",
     //"searchEditor.findMatchBorder": null,
     "searchEditor.textInputBorder": "#cecece",
-
     // The hover highlight is shown behind the symbol for which a hover is shown.
     "editor.hoverHighlightBackground": "#add6ff26",
-
     // The current line is typically shown as either background highlight or a border (not both).
     //"editor.lineHighlightBackground": null,
     "editor.lineHighlightBorder": "#eeeeee",
-
     // The link color is visible when clicking on a link.
     "editorLink.activeForeground": "#0000ff",
-
     // The range highlight is visible when selecting a search result.
     "editor.rangeHighlightBackground": "#fdff0033",
     //"editor.rangeHighlightBorder": null,
-
     // The symbol highlight is visible when navigating to a symbol via a command such as Go to Definition.
     "editor.symbolHighlightBackground": "#ea5c0055",
     //"editor.symbolHighlightBorder": null,
-
     // To see the editor white spaces, enable Toggle Render Whitespace.
     "editorWhitespace.foreground": "#33333333",
-
     // To see the editor indent guides, set "editor.renderIndentGuides"
     "editorIndentGuide.background": "#d3d3d3",
     "editorIndentGuide.activeBackground": "#939393",
-
     // To see editor rulers, define their location with "editor.rulers"
     "editorRuler.foreground": "#61616130",
-
     // CodeLens
     "editorCodeLens.foreground": "#999999",
-
     // Lightbulb
     "editorLightBulb.foreground": "#ddb100",
     "editorLightBulbAutoFix.foreground": "#007acc",
-
     // Bracket matches
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#61616130",
-
     // Folding
     "editor.foldBackground": "#add6ff4d",
-
     // Overview ruler
-
     // This ruler is located beneath the scroll bar on the right edge of the editor and gives an overview of the decorations in the editor.
     //"editorOverviewRuler.background": null,
     "editorOverviewRuler.border": "#61616130",
@@ -298,7 +250,6 @@
     "editorOverviewRuler.warningForeground": "#e9a700",
     "editorOverviewRuler.infoForeground": "#75beff",
     "editorOverviewRuler.bracketMatchForeground": "#a0a0a0",
-
     // Errors and warnings
     "editorError.foreground": "#e51400",
     //"editorError.border": null,
@@ -311,11 +262,9 @@
     "problemsErrorIcon.foreground": "#e51400",
     "problemsWarningIcon.foreground": "#e9a700",
     "problemsInfoIcon.foreground": "#75beff",
-
     // Unused source code
     //"editorUnnecessaryCode.border": null,
     "editorUnnecessaryCode.opacity": "#1b1b1b77",
-
     // The gutter contains the glyph margins and the line numbers
     "editorGutter.background": "#ffffff",
     "editorGutter.modifiedBackground": "#66afe0",
@@ -323,9 +272,7 @@
     "editorGutter.deletedBackground": "#ca4b51",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "editorGutter.foldingControlForeground": "#424242",
-
     // Diff editor colors: https://code.visualstudio.com/api/references/theme-color#diff-editor-colors
-
     // For coloring inserted and removed text, use either a background or a border color but not both.
     "diffEditor.insertedTextBackground": "#9bb95533",
     //"diffEditor.insertedTextBorder": null,
@@ -333,9 +280,7 @@
     //"diffEditor.removedTextBorder": null,
     //"diffEditor.border": null,
     "diffEditor.diagonalFill": "#22222233",
-
     // Editor widget colors: https://code.visualstudio.com/api/references/theme-color#editor-widget-colors
-
     // The Editor widget is shown in front of the editor content. Examples are the Find/Replace dialog, the suggestion widget, and the editor hover.
     "editorWidget.foreground": "#616161",
     "editorWidget.background": "#f3f3f3",
@@ -350,19 +295,15 @@
     "editorHoverWidget.background": "#f3f3f3",
     "editorHoverWidget.border": "#c8c8c8",
     "editorHoverWidget.statusBarBackground": "#e7e7e7",
-
     // The Debug Exception widget is a peek view that shows in the editor when debug stops at an exception.
     "debugExceptionWidget.background": "#f1dfde",
     "debugExceptionWidget.border": "#a31515",
-
     // The editor marker view shows when navigating to errors and warnings in the editor (Go to Next Error or Warning command).
     "editorMarkerNavigation.background": "#ffffff",
     "editorMarkerNavigationError.background": "#e51400",
     "editorMarkerNavigationWarning.background": "#e9a700",
     "editorMarkerNavigationInfo.background": "#75beff",
-
     // Peek view colors: https://code.visualstudio.com/api/references/theme-color#peek-view-colors
-
     // Peek views are used to show references and declarations as a view inside the editor.
     "peekView.border": "#007acc",
     "peekViewEditor.background": "#f2f8fc",
@@ -378,9 +319,7 @@
     "peekViewTitle.background": "#ffffff",
     "peekViewTitleDescription.foreground": "#616161e6",
     "peekViewTitleLabel.foreground": "#333333",
-
     // Merge conflicts colors: https://code.visualstudio.com/api/references/theme-color#merge-conflicts-colors
-
     // Merge conflict decorations are shown when the editor contains special diff ranges.
     "merge.currentHeaderBackground": "#40c8ae80",
     "merge.currentContentBackground": "#40c8ae33",
@@ -392,11 +331,9 @@
     "editorOverviewRuler.currentContentForeground": "#40c8ae80",
     "editorOverviewRuler.incomingContentForeground": "#40a6ff80",
     "editorOverviewRuler.commonContentForeground": "#60606066",
-
     // Panel colors: https://code.visualstudio.com/api/references/theme-color#panel-colors
-
     // Panels are shown below the editor area and contain views like Output and Integrated Terminal.
-    "panel.background": "#ffffff",
+    "panel.background": "#f3f3f3",
     "panel.border": "#80808059",
     //"panel.dropBackground": null,
     "panel.dropBorder": "#424242",
@@ -409,12 +346,9 @@
     "panelSectionHeader.background": "#80808033",
     //"panelSectionHeader.foreground": null,
     //"panelSectionHeader.border": null,
-
     // Preview colors: https://code.visualstudio.com/api/references/theme-color#preview-colors
-    "imagePreview.border": "#80808059",
-
+    // "imagePreview.border": "#80808059",
     // Status Bar colors: https://code.visualstudio.com/api/references/theme-color#status-bar-colors
-
     // The Status Bar is shown in the bottom of the workbench.
     "statusBar.background": "#16825d",
     "statusBar.foreground": "#ffffff",
@@ -432,16 +366,13 @@
     "statusBarItem.prominentHoverBackground": "#1b1b1b4d",
     "statusBarItem.remoteBackground": "#16825d",
     "statusBarItem.remoteForeground": "#ffffff",
-
     // Prominent items stand out from other Status Bar entries to indicate importance. One example is the Toggle Tab Key Moves Focus command change mode indicator.
-
     // Title Bar colors: https://code.visualstudio.com/api/references/theme-color#title-bar-colors
     "titleBar.activeBackground": "#dddddd",
     "titleBar.activeForeground": "#333333",
     "titleBar.inactiveBackground": "#dddddd99",
     "titleBar.inactiveForeground": "#33333399",
     //"titleBar.border": null,
-
     // Menu Bar colors: https://code.visualstudio.com/api/references/theme-color#menu-bar-colors
     "menubar.selectionForeground": "#333333",
     "menubar.selectionBackground": "#1b1b1b1a",
@@ -453,11 +384,8 @@
     //"menu.selectionBorder": null,
     "menu.separatorBackground": "#888888",
     //"menu.border": null,
-
     // Notification colors: https://code.visualstudio.com/api/references/theme-color#notification-colors
-
     // Notification toasts slide up from the bottom-right of the workbench.
-
     // Once opened in the Notification Center, they are displayed in a list with a header
     //"notificationCenter.border": null,
     //"notificationCenterHeader.foreground": null,
@@ -470,7 +398,6 @@
     "notificationsErrorIcon.foreground": "#e51400",
     "notificationsWarningIcon.foreground": "#e9a700",
     "notificationsInfoIcon.foreground": "#75beff",
-
     // If you target VS Code versions before the 1.21 (February 2018) release, these are the old (no longer supported) colors
     //"notification.background": null,
     //"notification.foreground": null,
@@ -483,45 +410,41 @@
     //"notification.infoForeground": null,
     //"notification.warningBackground": null,
     //"notification.warningForeground": null,
-
     // Extensions colors: https://code.visualstudio.com/api/references/theme-color#extensions-colors
     "extensionButton.prominentForeground": "#ffffff",
     "extensionButton.prominentBackground": "#327e36",
     "extensionButton.prominentHoverBackground": "#28632b",
     "extensionBadge.remoteBackground": "#007acc",
     "extensionBadge.remoteForeground": "#ffffff",
-
     // Quick picker colors: https://code.visualstudio.com/api/references/theme-color#quick-picker-colors
     "pickerGroup.border": "#cccedb",
     "pickerGroup.foreground": "#0066bf",
     "quickInput.background": "#f3f3f3",
     "quickInput.foreground": "#616161",
     "quickInputTitle.background": "#1b1b1b0f",
-
     // Integrated Terminal colors: https://code.visualstudio.com/api/references/theme-color#integrated-terminal-colors
     //"terminal.background": null,
     "terminal.border": "#80808059",
-    "terminal.foreground": "#333333",
+    "terminal.foreground": "#1b1b1b",
     "terminal.ansiBlack": "#1b1b1b",
-    "terminal.ansiBlue": "#0598bc",
+    "terminal.ansiBlue": "#0090f1",
     "terminal.ansiBrightBlack": "#1b1b1b90",
-    "terminal.ansiBrightBlue": "#0598bc90",
-    "terminal.ansiBrightCyan": "#0598bc90",
+    "terminal.ansiBrightBlue": "#0090f190",
+    "terminal.ansiBrightCyan": "#2dbacc",
     "terminal.ansiBrightGreen": "#16825d90",
     "terminal.ansiBrightMagenta": "#bc05bc90",
     "terminal.ansiBrightRed": "#cd313190",
-    "terminal.ansiBrightWhite": "#55555590",
-    "terminal.ansiBrightYellow": "#94980090",
-    "terminal.ansiCyan": "#0598bc",
+    "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.ansiBrightYellow": "#ffd82b90",
+    "terminal.ansiCyan": "#2dbacc",
     "terminal.ansiGreen": "#16825d",
     "terminal.ansiMagenta": "#bc05bc",
     "terminal.ansiRed": "#cd3131",
-    "terminal.ansiWhite": "#555555",
-    "terminal.ansiYellow": "#949800",
+    "terminal.ansiWhite": "#ffffff",
+    "terminal.ansiYellow": "#ffd82b",
     "terminal.selectionBackground": "#1b1b1b40",
     //"terminalCursor.background": null,
     "terminalCursor.foreground": "#1b1b1b",
-
     // Debug colors: https://code.visualstudio.com/api/references/theme-color#debug-colors
     "debugToolBar.background": "#f3f3f3",
     //"debugToolBar.border": null,
@@ -538,16 +461,13 @@
     "debugTokenExpression.boolean": "#0000ff",
     "debugTokenExpression.number": "#098658",
     "debugTokenExpression.error": "#e51400",
-
     // Welcome page colors: https://code.visualstudio.com/api/references/theme-color#welcome-page-colors
     //"welcomePage.background": null,
     //"welcomePage.buttonBackground": null,
     //"welcomePage.buttonHoverBackground": null,
     //"walkThrough.embeddedEditorBackground": null,
-
     // Source Control colors: https://code.visualstudio.com/api/references/theme-color#source-control-colors
     "scm.providerBorder": "#c8c8c8",
-
     // Git colors: https://code.visualstudio.com/api/references/theme-color#git-colors
     "gitDecoration.addedResourceForeground": "#587c0c",
     "gitDecoration.modifiedResourceForeground": "#895503",
@@ -556,7 +476,6 @@
     "gitDecoration.ignoredResourceForeground": "#8e8e90",
     "gitDecoration.conflictingResourceForeground": "#6c6cc4",
     "gitDecoration.submoduleResourceForeground": "#1258a7",
-
     // Settings Editor colors: https://code.visualstudio.com/api/references/theme-color#settings-editor-colors
     "settings.headerForeground": "#444444",
     "settings.modifiedItemIndicator": "#66afe0",
@@ -573,26 +492,20 @@
     "settings.numberInputBackground": "#ffffff",
     "settings.numberInputForeground": "#616161",
     "settings.numberInputBorder": "#cecece",
-
     // Breadcrumbs colors: https://code.visualstudio.com/api/references/theme-color#breadcrumbs-colors
-
     // The theme colors for breadcrumbs navigation
     "breadcrumb.foreground": "#616161cc",
     "breadcrumb.background": "#ffffff",
     "breadcrumb.focusForeground": "#4e4e4e",
     "breadcrumb.activeSelectionForeground": "#4e4e4e",
     "breadcrumbPicker.background": "#f3f3f3",
-
     // Snippets colors: https://code.visualstudio.com/api/references/theme-color#snippets-colors
-
     // The theme colors for snippets
     "editor.snippetTabstopHighlightBackground": "#0a326433",
     //"editor.snippetTabstopHighlightBorder": null,
     //"editor.snippetFinalTabstopHighlightBackground": null,
     "editor.snippetFinalTabstopHighlightBorder": "#0a326480",
-
     // Symbol Icons colors: https://code.visualstudio.com/api/references/theme-color#symbol-icons-colors
-
     // The theme colors for symbol icons that appears in the Outline view, breadcrumb navigation, and suggest widget
     "symbolIcon.arrayForeground": "#616161",
     "symbolIcon.booleanForeground": "#616161",
@@ -627,7 +540,6 @@
     "symbolIcon.typeParameterForeground": "#616161",
     "symbolIcon.unitForeground": "#616161",
     "symbolIcon.variableForeground": "#007acc",
-
     // Debug Icons colors: https://code.visualstudio.com/api/references/theme-color#debug-icons-colors
     "debugIcon.breakpointForeground": "#e51400",
     "debugIcon.breakpointDisabledForeground": "#848484",
@@ -649,7 +561,6 @@
     "debugConsole.errorForeground": "#a1260d",
     "debugConsole.sourceForeground": "#616161",
     "debugConsoleInputIcon.foreground": "#616161",
-
     // Notebook colors: https://code.visualstudio.com/api/references/theme-color#notebook-colors
     "notebook.cellBorderColor": "#dae3e9",
     "notebook.focusedEditorBorder": "#0090f1",
@@ -668,12 +579,14 @@
     "notebookScrollbarSlider.hoverBackground": "#646464b3",
     "notebookScrollbarSlider.activeBackground": "#1b1b1b99"
   },
-
   // Notebook colors: https://code.visualstudio.com/api/references/theme-color#notebook-colors
   // Color values can be defined in the RGB color model with an alpha channel for transparency. As format, the following hexadecimal notations are supported
   "tokenColors": [
     {
-      "scope": ["meta.embedded", "source.groovy.embedded"],
+      "scope": [
+        "meta.embedded",
+        "source.groovy.embedded"
+      ],
       "settings": {
         "foreground": "#1b1b1b"
       }
@@ -694,13 +607,6 @@
       "scope": "meta.diff.header",
       "settings": {
         "foreground": "#000080"
-      }
-    },
-    {
-      "scope": "comment",
-      "settings": {
-        "foreground": "#008000",
-        "fontStyle": "italic"
       }
     },
     {
@@ -832,7 +738,10 @@
       }
     },
     {
-      "scope": ["meta.preprocessor", "entity.name.function.preprocessor"],
+      "scope": [
+        "meta.preprocessor",
+        "entity.name.function.preprocessor"
+      ],
       "settings": {
         "foreground": "#0000FF"
       }
@@ -868,13 +777,19 @@
       }
     },
     {
-      "scope": ["storage.modifier", "keyword.operator.noexcept"],
+      "scope": [
+        "storage.modifier",
+        "keyword.operator.noexcept"
+      ],
       "settings": {
         "foreground": "#cd3131"
       }
     },
     {
-      "scope": ["string", "meta.embedded.assembly"],
+      "scope": [
+        "string",
+        "meta.embedded.assembly"
+      ],
       "settings": {
         "foreground": "#A31515"
       }
@@ -895,14 +810,19 @@
         "string.quoted.single.html",
         "string.unquoted.html",
         "string.quoted.single.handlebars",
-        "string.quoted.double.handlebars"
+        "string.quoted.double.handlebars",
+        "string.quoted.docstring.multi",
+        "comment"
       ],
       "settings": {
-        "foreground": "#0000FF"
+        "foreground": "#008000",
+        "fontStyle": "italic"
       }
     },
     {
-      "scope": "string.regexp",
+      "scope": [
+        "string.regexp"
+      ],
       "settings": {
         "foreground": "#811F3F"
       }
@@ -918,7 +838,9 @@
       }
     },
     {
-      "scope": ["meta.template.expression"],
+      "scope": [
+        "meta.template.expression"
+      ],
       "settings": {
         "foreground": "#1b1b1b"
       }
@@ -951,7 +873,9 @@
       }
     },
     {
-      "scope": ["support.type.property-name.json"],
+      "scope": [
+        "support.type.property-name.json"
+      ],
       "settings": {
         "foreground": "#0451A5"
       }
@@ -1054,7 +978,9 @@
       }
     },
     {
-      "scope": "token.debug-token",
+      "scope": [
+        "token.debug-token"
+      ],
       "settings": {
         "foreground": "#800080"
       }
