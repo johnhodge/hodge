@@ -23,8 +23,8 @@
     "icon.foreground": "#424242",
     // Window border: https://code.visualstudio.com/api/references/theme-color#window-border
     // The theme colors for VS Code window border.
-    "window.activeBorder": "#f3f3f3",
-    "window.inactiveBorder": "#f3f3f3",
+    // "window.activeBorder": null,
+    // "window.inactiveBorder": null,
     // Text colors: https://code.visualstudio.com/api/references/theme-color#text-colors
     // Colors inside a text document, such as the welcome page.
     "textBlockQuote.background": "#7f7f7f1a",
