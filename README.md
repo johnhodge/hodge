@@ -10,6 +10,6 @@ A theme to help chill things out.
 
 ## Hodge Lite ☀️
 
-![Hodge Lite](https://github.com/johnhodge/hodge/blob/master/images/dim20201002.png "Hodge Lite ☀️ ")
+![Hodge Lite](https://github.com/johnhodge/hodge/blob/master/images/lite20201002.png "Hodge Lite ☀️ ")
 
 A theme to help lighten things up.
