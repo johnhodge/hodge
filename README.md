@@ -6,10 +6,10 @@ Hodge Theme is a basic theme with clean colors for distractionless coding.
 
 A theme to help chill things out.
 
-![Hodge Dim](https://raw.githubusercontent.com/johnhodge/hodge/master/images/dim20201002.png?token=AELH65M36JRVKX7AOV53S4S7O6FSS "Hodge Dim 🌙 ")
+![Hodge Dim](https://media.githubusercontent.com/media/johnhodge/hodge/master/images/dim20201002.png?token=AELH65IAUL5W5NASY5GXJUC7O665C "Hodge Dim 🌙 ")
 
 ## Hodge Lite ☀️
 
-![Hodge Lite](https://raw.githubusercontent.com/johnhodge/hodge/master/images/lite20201002.png?token=AELH65KI4S53JCFI6YKRLFK7O6FO4 "Hodge Lite ☀️ ")
+![Hodge Lite](https://media.githubusercontent.com/media/johnhodge/hodge/master/images/lite20201002.png?token=AELH65OUWUKYB7ZY6ZBJTG27O67CA "Hodge Lite ☀️ ")
 
 A theme to help lighten things up.
