@@ -1,43 +1,50 @@
 {
-  "name": "hodge-theme-light",
-  "displayName": "Hodge Theme Light",
-  "version": "0.4.0",
+  "name": "hodge",
+  "displayName": "Hodge",
+  "description": "Hodge is a collection of light & dark themes",
+  "version": "0.1.0",
   "publisher": "johnhodge",
-  "description": "A light theme of Hodge.",
-  "author": {
-    "name": "johnhodge"
+  "icon": "images/logo.png",
+  "engines": {
+    "vscode": "^1.43.0"
   },
-  "categories": [
-    "Themes"
+  "extensionKind": [
+    "ui"
   ],
   "galleryBanner": {
     "color": "#f3f3f3",
     "theme": "light"
   },
-  "icon": "hodge.png",
-  "activationEvents": [
-    "onLanguage:markdown"
-  ],
-  "engines": {
-    "vscode": "^1.0.0"
-  },
-  "main": "./out/extension",
-  "scripts": {
-    "vscode:prepublish": "node ./node_modules/vscode/bin/compile",
-    "compile": "node ./node_modules/vscode/bin/compile -watch -p ./"
-  },
-  "devDependencies": {
-    "vscode": "0.10.x",
-    "typescript": "^1.6.2"
-  },
-  "license": "SEE LICENSE IN LICENSE.txt",
-  "bugs": {
-    "url": "https://github.com/johnhodge/hodge-light-theme/issues",
-    "email": "light@hod.ge"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnhodge/hodge-light-theme.git"
+    "url": "https://github.com/johnhodge/"
   },
-  "homepage": "https://github.com/johnhodge/hodge-light-theme/blob/master/README.md"
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "theme",
+    "hodge",
+    "clean",
+    "italid",
+    "dark",
+    "light"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hodge Focus",
+        "uiTheme": "vs",
+        "path": "./themes/focus.json"
+      },
+      {
+        "label": "Hodge Dimmer",
+        "uiTheme": "vs",
+        "path": "./themes/dimmer.json"
+      }
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
