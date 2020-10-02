@@ -40,7 +40,7 @@
       },
       {
         "label": "Hodge Dimmer",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/dimmer.json"
       }
     ]
