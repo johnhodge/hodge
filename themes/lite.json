@@ -1,7 +1,7 @@
 {
     "name": "Hodge Lite",
     "$schema": "vscode://schemas/color-theme",
-    "type": "vs",
+    "type": "light",
     "colors": {
         /* Color formats: https://code.visualstudio.com/api/references/theme-color#color-formats
 	  
@@ -592,10 +592,10 @@
                 "source.ocaml comment constant.regexp meta.separator",
                 "markup.other.anchor support.constant",
                 "markup.fenced_code",
-                "markup.fenced_code punctuation.definition"
+                "markup.fenced_code punctuation.definition",
             ],
             "settings": {
-                "foreground": "#5E7887"
+                "foreground": "#5e7887"
             }
         },
         {
@@ -630,7 +630,7 @@
                 "storage.modifier.array.bracket",
                 "source.css entity.other",
                 "meta.attribute-selector punctuation.definition.entity",
-                "markup.other.anchor string"
+                "markup.other.anchor string",
             ],
             "settings": {
                 "foreground": "#494d50"
@@ -689,7 +689,7 @@
                 "source.css entity.name.tag.custom",
                 "sharing.modifier",
                 "keyword.control.class.ruby",
-                "keyword.control.def.ruby"
+                "keyword.control.def.ruby",
             ],
             "settings": {
                 "foreground": "#a77587"
@@ -752,7 +752,7 @@
                 "support.type.nim",
                 "source.tf meta.template.expression",
                 "source.scala entity.name.import",
-                "markup.code"
+                "markup.code",
             ],
             "settings": {
                 "foreground": "#79631e"
@@ -819,7 +819,7 @@
                 "source.scala entity.name.class",
                 "markup.raw.monospace",
                 "markup.mark",
-                "markup.meta.attribute-list"
+                "markup.meta.attribute-list",
             ],
             "settings": {
                 "foreground": "#b36546"
@@ -859,7 +859,7 @@
                 "source.vue entity.other.attribute-name",
                 "entity.other.attribute-name.mjml",
                 "source.vue meta.directive punctuation.separator.key-value",
-                "meta.definition.attribute-entry punctuation.separator"
+                "meta.definition.attribute-entry punctuation.separator",
             ],
             "settings": {
                 "foreground": "#887307"
@@ -920,7 +920,7 @@
                 "meta.function.lua keyword.control.lua",
                 "markup.italic punctuation.definition",
                 "markup.bold punctuation.definition",
-                "markup.block entity.name.tag"
+                "markup.block entity.name.tag",
             ],
             "settings": {
                 "foreground": "#9e5e45"
@@ -936,7 +936,7 @@
                 "markup.inserted.diff",
                 "source.scala punctuation.definition.character",
                 "constant.character.literal.scala",
-                "source.tf entity.name"
+                "source.tf entity.name",
             ],
             "settings": {
                 "foreground": "#4d8d72"
@@ -955,10 +955,10 @@
                 "markup.inline.raw punctuation.definition.raw",
                 "string.quoted.double.interpolated.crystal",
                 "string.quoted.double.interpolated.crystal punctuation.definition.string",
-                "text.tex markup.raw"
+                "text.tex markup.raw",
             ],
             "settings": {
-                "foreground": "#3F8D6C"
+                "foreground": "#3f8d6c"
             }
         },
         {
@@ -974,10 +974,10 @@
                 "constant.others.fsharp",
                 "keyword.other.unit",
                 "string.quoted.double.skinparam.value",
-                "source.toml constant"
+                "source.toml constant",
             ],
             "settings": {
-                "foreground": "#7068B1"
+                "foreground": "#7068b1"
             }
         },
         {
@@ -1000,10 +1000,10 @@
                 "support.variable.class.function",
                 "keyword.control.cucumber.table",
                 "punctuation.decorator",
-                "source.tf support.class"
+                "source.tf support.class",
             ],
             "settings": {
-                "foreground": "#3F848D"
+                "foreground": "#3f848d"
             }
         },
         {
@@ -1037,7 +1037,7 @@
                 "keyword.language.gherkin.feature.scenario",
                 "source.nim keyword.other.common.function",
                 "entity.name.type.namespace",
-                "entity.name.scope-resolution.function.call"
+                "entity.name.scope-resolution.function.call",
             ],
             "settings": {
                 "foreground": "#538991"
@@ -1091,7 +1091,7 @@
                 "source.tf meta.keyword.list",
                 "source.tf meta.keyword.map",
                 "entity.name.class.lua",
-                "markup.substitution"
+                "markup.substitution",
             ],
             "settings": {
                 "foreground": "#3d779b"
@@ -1100,10 +1100,10 @@
         {
             "scope": [
                 "invalid",
-                "invalid.illegal"
+                "invalid.illegal",
             ],
             "settings": {
-                "foreground": "#B16A4E"
+                "foreground": "#b16a4e"
             }
         },
         {
@@ -1202,10 +1202,10 @@
                 "keyword.local.lua",
                 "markup.list",
                 "markup.mark.constrained markup.mark",
-                "markup.block.open"
+                "markup.block.open",
             ],
             "settings": {
-                "fontStyle": "italic"
+                "fontStyle": "italic",
             }
         },
         {
@@ -1263,10 +1263,10 @@
                 "keyword.other.fn.rust",
                 "markup.other.anchor",
                 "markup.list.bullet",
-                "markup.list punctuation.definition"
+                "markup.list punctuation.definition",
             ],
             "settings": {
-                "fontStyle": "bold"
+                "fontStyle": "bold",
             }
         },
         {
@@ -1287,10 +1287,10 @@
                 "source.tf entity.name",
                 "markup.quote punctuation.definition",
                 "markup.fenced_code punctuation.definition",
-                "fenced_code.block.language"
+                "fenced_code.block.language",
             ],
             "settings": {
-                "fontStyle": "bold italic"
+                "fontStyle": "bold italic",
             }
         },
         {
@@ -1357,10 +1357,10 @@
                 "source.nim keyword.other",
                 "source.scala keyword.declaration",
                 "source.scala entity.name.class.declaration",
-                "keyword.control.lua"
+                "keyword.control.lua",
             ],
             "settings": {
-                "fontStyle": ""
+                "fontStyle": "",
             }
         },
         {
@@ -1378,7 +1378,7 @@
         {
             "scope": "token.error-token",
             "settings": {
-                "foreground": "#F44747"
+                "foreground": "#f44747"
             }
         },
         {
