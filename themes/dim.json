@@ -1,5 +1,5 @@
 {
-	"name": "Hodge Dim",
+	"name": "Hodge Lite",
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
@@ -633,7 +633,7 @@
 				"markup.other.anchor string"
 			],
 			"settings": {
-				"foreground": "#C5CDD3"
+				"foreground": "#494d50"
 			}
 		},
 		{
@@ -692,7 +692,7 @@
 				"keyword.control.def.ruby"
 			],
 			"settings": {
-				"foreground": "#C88DA2"
+				"foreground": "#a77587"
 			}
 		},
 		{
@@ -755,7 +755,7 @@
 				"markup.code"
 			],
 			"settings": {
-				"foreground": "#D3B692"
+				"foreground": "#79631e"
 			}
 		},
 		{
@@ -822,7 +822,7 @@
 				"markup.meta.attribute-list"
 			],
 			"settings": {
-				"foreground": "#BE856F"
+				"foreground": "#b36546"
 			}
 		},
 		{
@@ -862,7 +862,7 @@
 				"meta.definition.attribute-entry punctuation.separator"
 			],
 			"settings": {
-				"foreground": "#A88C00"
+				"foreground": "#887307"
 			}
 		},
 		{
@@ -923,7 +923,7 @@
 				"markup.block entity.name.tag"
 			],
 			"settings": {
-				"foreground": "#C37455"
+				"foreground": "#9e5e45"
 			}
 		},
 		{
@@ -939,7 +939,7 @@
 				"source.tf entity.name"
 			],
 			"settings": {
-				"foreground": "#72C09F"
+				"foreground": "#4d8d72"
 			}
 		},
 		{
@@ -1040,7 +1040,7 @@
 				"entity.name.scope-resolution.function.call"
 			],
 			"settings": {
-				"foreground": "#72B7C0"
+				"foreground": "#538991"
 			}
 		},
 		{
@@ -1094,7 +1094,7 @@
 				"markup.substitution"
 			],
 			"settings": {
-				"foreground": "#5998C0"
+				"foreground": "#3d779b"
 			}
 		},
 		{
@@ -1366,13 +1366,13 @@
 		{
 			"scope": "token.info-token",
 			"settings": {
-				"foreground": "#6796E6"
+				"foreground": "#5983ca"
 			}
 		},
 		{
 			"scope": "token.warn-token",
 			"settings": {
-				"foreground": "#CD9731"
+				"foreground": "#a17b33"
 			}
 		},
 		{
@@ -1384,7 +1384,7 @@
 		{
 			"scope": "token.debug-token",
 			"settings": {
-				"foreground": "#B267E6"
+				"foreground": "#9d5dca"
 			}
 		}
 	]

@@ -5,29 +5,16 @@
 {
     "version": "0.2.0",
     "configurations": [
-        // Lite Theme
         {
             "args": [
                 "--extensionDevelopmentPath=${workspaceFolder}"
             ],
-            "name": "Lite Theme",
+            "name": "Lite",
             "outFiles": [
                 "${workspaceFolder}/themes/lite.json"
             ],
             "request": "launch",
-            "type": "pwa-extensionHost"
-        },
-        // Dim theme
-        {
-            "args": [
-                "--extensionDevelopmentPath=${workspaceFolder}"
-            ],
-            "name": "Dim Theme",
-            "outFiles": [
-                "${workspaceFolder}/themes/dim.json"
-            ],
-            "request": "launch",
-            "type": "pwa-extensionHost"
+            "type": "extensionHost"
         }
     ]
 }
