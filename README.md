@@ -14,7 +14,7 @@ A theme to help chill things out.
 
 Close up
 
-![Hodge Dim](/images/dim_close.png "Close up Dim 🌙 ")
+![Hodge Dim](https://github.com/johnhodge/hodge/raw/master/images/dim_close.png "Close up Dim 🌙 ")
 
 ## Hodge Lite ☀️
 
@@ -23,4 +23,4 @@ A theme to help lighten things up.
 ![Hodge Lite](https://media.githubusercontent.com/media/johnhodge/hodge/master/images/lite.png "Hodge Lite ☀️ ")
 
 Close up
-![Hodge Dim](/images/dim_close.png "Close up Lite ☀️ ")
+![Hodge Dim](https://github.com/johnhodge/hodge/raw/master/images/lite_close.png "Close up Lite ☀️ ")
