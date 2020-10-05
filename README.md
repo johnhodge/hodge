@@ -1,6 +1,10 @@
 # Hodge Theme 💻
 
-Hodge Theme is a basic theme with clean colors for distractionless coding.
+Hodge Theme is a theme made for Hodge by Hodge. It comes in two styles, lite and dim.
+
+Each is a mismash of pre-existing themes with some custom Hodgery instituted.
+
+Use at your own risk, theme styles may change suddenly and without notice ☠️
 
 ## Hodge Dim 🌙
 

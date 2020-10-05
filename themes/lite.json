@@ -1209,7 +1209,6 @@
 		{
 			"scope": [
 				"keyword",
-				"keyword.control",
 				"keyword.operator",
 				"keyword.other.template",
 				"keyword.other.substitution",
@@ -1286,6 +1285,7 @@
 				"markup.quote punctuation.definition",
 				"markup.fenced_code punctuation.definition",
 				"fenced_code.block.language",
+				"keyword.control",
 			],
 			"settings": {
 				"fontStyle": "bold italic",
