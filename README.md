@@ -10,10 +10,10 @@ Use at your own risk, theme styles may change without notice ☠️
 
 A theme to help chill things out.
 
-![Hodge Dim](images/dim.png "Hodge Dim 🌙 ")
+![Hodge Dim](https://media.githubusercontent.com/media/johnhodge/hodge/master/images/dim.png "Hodge Dim 🌙 ")
 
 ## Hodge Lite ☀️
 
-![Hodge Lite](images/lite.png "Hodge Lite ☀️ ")
+![Hodge Lite](https://media.githubusercontent.com/media/johnhodge/hodge/master/images/lite.png "Hodge Lite ☀️ ")
 
 A theme to help lighten things up.
