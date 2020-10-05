@@ -12,8 +12,15 @@ A theme to help chill things out.
 
 ![Hodge Dim](https://media.githubusercontent.com/media/johnhodge/hodge/master/images/dim.png "Hodge Dim 🌙 ")
 
+Close up
+
+![Hodge Dim](/images/dim_close.png "Close up Dim 🌙 ")
+
 ## Hodge Lite ☀️
+
+A theme to help lighten things up.
 
 ![Hodge Lite](https://media.githubusercontent.com/media/johnhodge/hodge/master/images/lite.png "Hodge Lite ☀️ ")
 
-A theme to help lighten things up.
+Close up
+![Hodge Dim](/images/dim_close.png "Close up Lite ☀️ ")
