@@ -12,7 +12,7 @@
 		// "contrastActiveBorder": null,
 		// "contrastBorder": null,
 		// Base colors: https://code.visualstudio.com/api/references/theme-color#base-colors
-		"focusBorder": "#202e37",
+		"focusBorder": "#72c09f",
 		"foreground": "#c5cdd3",
 		"widget.shadow": "#00000044",
 		// "selection.background": "#5998c077",
