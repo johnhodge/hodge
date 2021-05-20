@@ -1204,7 +1204,7 @@
 				"markup.block.open",
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "bold italic",
 			}
 		},
 		{
