@@ -48,8 +48,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "vscode": "0.10.x",
-    "typescript": "^1.6.2"
+    "typescript": "^1.6.2",
+    "vsce": "^2.6.7",
+    "vscode": "0.10.x"
   },
   "bugs": {
     "url": "https://github.com/johnhodge/hodge/issues",
