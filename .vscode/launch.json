@@ -9,12 +9,12 @@
             "args": [
                 "--extensionDevelopmentPath=${workspaceFolder}"
             ],
-            "name": "dim",
+            "name": "lite",
             "outFiles": [
-                "${workspaceFolder}/themes/dim.json"
+                "${workspaceFolder}/themes/lite.json"
             ],
             "request": "launch",
             "type": "extensionHost"
         }
-    ]
+    ],
 }
