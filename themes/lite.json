@@ -230,6 +230,27 @@
 		// Bracket matches
 		"editorBracketMatch.background": "#0064001a",
 		"editorBracketMatch.border": "#61616130",
+		// Bracket pair colorization
+		"editorBracketHighlight.foreground1": "#2abb88",
+		"editorBracketHighlight.foreground2": "#bc05bc",
+		"editorBracketHighlight.foreground3": "#2dbacc",
+		"editorBracketHighlight.foreground4": "#a17b33",
+		"editorBracketHighlight.foreground5": "#0090f1",
+		"editorBracketHighlight.foreground6": "#1b1b1b",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#cd3131",
+		// Bracket pair guides
+		// "editorBracketPairGuide.activeBackground1": "null",
+		// "editorBracketPairGuide.activeBackground2": null,
+		// "editorBracketPairGuide.activeBackground3": null,
+		// "editorBracketPairGuide.activeBackground4": null,
+		// "editorBracketPairGuide.activeBackground5": null,
+		// "editorBracketPairGuide.activeBackground6": null,
+		// "editorBracketPairGuide.background1": null,
+		// "editorBracketPairGuide.background2": null,
+		// "editorBracketPairGuide.background3": null,
+		// "editorBracketPairGuide.background4": null,
+		// "editorBracketPairGuide.background5": null,
+		// "editorBracketPairGuide.background6": null,
 		// Folding
 		"editor.foldBackground": "#add6ff4d",
 		// Overview ruler
