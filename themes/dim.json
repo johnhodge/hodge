@@ -231,12 +231,12 @@
 		"editorBracketMatch.background": "#496d8322",
 		"editorBracketMatch.border": "#496d83",
 		// Bracket pair colorization
-		"editorBracketHighlight.foreground1": "#72c09f",
-		"editorBracketHighlight.foreground2": "#c88da2",
-		"editorBracketHighlight.foreground3": "#62e7ee",
-		"editorBracketHighlight.foreground4": "#d3b692",
-		"editorBracketHighlight.foreground5": "#6796e6",
-		"editorBracketHighlight.foreground6": "#e5f5f5",
+		"editorBracketHighlight.foreground1": "#e5f5f5",
+		"editorBracketHighlight.foreground2": "#62e7ee",
+		"editorBracketHighlight.foreground3": "#c88da2",
+		"editorBracketHighlight.foreground4": "#6796e6",
+		"editorBracketHighlight.foreground5": "#d3b692",
+		"editorBracketHighlight.foreground6": "#72c09f",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#c37455",
 		// Bracket pair guides
 		// "editorBracketPairGuide.activeBackground1": "null",
